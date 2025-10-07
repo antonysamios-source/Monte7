@@ -132,4 +132,3 @@
     st.markdown(f"#### ✅ Win Probabilities
 - {player_a}: {wp_a:.2%} | EV vs Back: {edge_a:.2%}
 - {player_b}: {wp_b:.2%} | EV vs Back: {edge_b:.2%}")
-
